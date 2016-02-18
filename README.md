@@ -16,16 +16,14 @@ configurable rules. The most basic usage:
 
 Configurable options and their defaults are:
 
-``
-minLength = 8
-maxLength = 255
-requireAlpha = false
-requireLowercase = false
-requireUppercase = false
-requireNumber = false
-requireSpecialChar = false
-requireNumberOrSpecialChar = false
-``
+	minLength = 8
+	maxLength = 255
+	requireAlpha = false
+	requireLowercase = false
+	requireUppercase = false
+	requireNumber = false
+	requireSpecialChar = false
+	requireNumberOrSpecialChar = false
 
 An example with a more strict set of rules:
 
